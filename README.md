@@ -2,7 +2,7 @@ This project uses React as a front with Spring boot as a Backend
 
 # Images
 <div style={display:flex}>
-<img src="/Frontend/public/ss/login.png" width="500">
+<img src="/Frontend/public/ss/login.png" width="400">
 <img src="/Frontend/public/ss/signup.png" width="400">
 </div>
 <img src="/Frontend/public/ss/main.png" width="1000">
