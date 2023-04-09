@@ -12,7 +12,14 @@ Firstly install all the neccessary dependencies
 
 Before starting the front end server kindly start the spring boot server
 
-Start - npm run dev (frontend)
+install 
+```bash
+npm install
+```
+start server
+```bash
+npm run dev
+```
 
 # Requirements
 1. Add your openAI api_key in .env file
